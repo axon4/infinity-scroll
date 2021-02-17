@@ -1,7 +1,7 @@
-# Infinity Scroll
+# Infinity-Scroll
 
-* Scroll endlessly through awe-inspiring photos.
-* NB: Don't spend too long scrolling as the API is rate-limited.
+* scroll endLessly through awe-inspiring photos
+* NB: don't spend too long scrolling as API is rate-limited
 
 ## Stack
 
